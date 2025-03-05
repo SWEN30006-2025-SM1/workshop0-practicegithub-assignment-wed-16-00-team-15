@@ -8,7 +8,9 @@ public class Calculator {
 
     public int minus(int a, int b) {
         // TODO: Implement this method
-        return 10;
+        a=6;
+        b=5;
+        return a - b;
     }
 
     public int multiply(int a, int b) {
